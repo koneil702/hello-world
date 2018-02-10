@@ -1,3 +1,3 @@
 # hello-world
-Used for Software Carpentry work
+Learning to code.
 I'm Kathleen. 
