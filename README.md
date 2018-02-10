@@ -1,3 +1,3 @@
 # hello-world
-Learning to code.
-I'm Kathleen. 
+Can't avoid it any longer.
+Committed to figuring it out. 
